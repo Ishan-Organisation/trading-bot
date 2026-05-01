@@ -16,21 +16,6 @@ A Python-based CLI trading bot that interacts with the Binance Futures Testnet A
 
 ---
 
-##  Project Structure
-trading_bot/
-│── bot/
-│ ├── client.py
-│ ├── orders.py
-│ ├── validators.py
-│ ├── logging_config.py
-│── cli.py
-│── requirements.txt
-│── trading.log
-│── .env (not included in repo)
-
-
----
-
 ## ️ Setup Instructions
 
 ### 1. Clone Repository
