@@ -1,0 +1,18 @@
+2026-05-01 12:23:49,332 - INFO - Request: BTCUSDT BUY MARKET 0.001
+2026-05-01 12:23:51,514 - INFO - Response: {}
+2026-05-01 12:26:06,973 - INFO - Request: BTCUSDT BUY MARKET 0.001
+2026-05-01 12:26:08,766 - INFO - Response: {}
+2026-05-01 12:29:36,559 - INFO - Request: BTCUSDT BUY MARKET 0.001
+2026-05-01 12:29:37,396 - ERROR - Error: APIError(code=-2014): API-key format invalid.
+2026-05-01 12:56:47,937 - INFO - Request: BTCUSDT BUY MARKET 0.001
+2026-05-01 12:56:48,759 - INFO - Response: {'orderId': 13095696033, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ3079ae5ebd481c76ba8cc8', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1777620408631}
+2026-05-01 12:58:55,571 - INFO - Request: BTCUSDT SELL LIMIT 0.001
+2026-05-01 12:58:56,730 - ERROR - Error: APIError(code=-4024): Limit price can't be lower than 73143.83.
+2026-05-01 12:59:26,666 - INFO - Request: BTCUSDT SELL LIMIT 0.001
+2026-05-01 12:59:27,716 - INFO - Response: {'orderId': 13095703730, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJa6c6e309bf391c112372b5', 'price': '75000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1777620567578}
+2026-05-01 13:21:18,039 - INFO - Request: BTUCSDT BUY MARKET 1e-05
+2026-05-01 13:21:18,924 - ERROR - Error: APIError(code=-1121): Invalid symbol.
+2026-05-01 13:22:31,286 - INFO - Request: BTCUSDT  BUY MARKET 0.01
+2026-05-01 13:22:32,056 - ERROR - Error: APIError(code=-1022): Signature for this request is not valid.
+2026-05-01 13:23:44,885 - INFO - Request: BTCUSDT BUY MARKET 0.001
+2026-05-01 13:23:45,768 - INFO - Response: {'orderId': 13095773370, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ351ed83096f941fb2c3da4', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1777622025571}
